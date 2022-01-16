@@ -10,7 +10,6 @@ tickers, whereas it is also possible to introduce a set of variables which are a
 
 ## Results
 
-It took 0.328 second to analyze all the stocks of 2017 with the refactored code. [![2017.jpg](https://i.postimg.cc/kM2p7LQ9/2017.jpg)](https://postimg.cc/RqzRRspb)  
+The Results of the total daily volumes and return of all the 2017 stocks are shown in the image below.[![dasd.jpg](https://i.postimg.cc/v8XZdgtC/dasd.jpg)](https://postimg.cc/9zRhdfSB)
 
-In addition, it took 0.335 second to analyze all the stocks of 2018 with the refactored code. [![2018.jpg](https://i.postimg.cc/MpLcJMqz/2018.jpg)](https://postimg.cc/yDF6FNDG)
-
+The Results of the total daily volumes and return of all the 2018 stocks are shown in the image below.[![mkd.jpg](https://i.postimg.cc/268gd6LB/mkd.jpg)](https://postimg.cc/CZXvSwNF)
