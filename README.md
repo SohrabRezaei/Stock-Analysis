@@ -2,11 +2,7 @@
 
 ## Overview of Project
 
-Refactoring the module 2 original code in order to run the VBA codes faster. Refactoring helps to remove excessive codes and repition while occupying less space to deliver a
-
-better result. The original code used a [for](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/fornext-statement) loop to loop through the 
-
-tickers, whereas it is also possible to introduce a set of arrays to loop the tickers.
+Refactoring the module 2 original code in order to run the VBA codes faster. Refactoring helps to remove excessive codes and repition while occupying less space to deliver a better result. The original code used a [for](https://docs.microsoft.com/en-us/office/vba/language/reference/user-interface-help/fornext-statement) loop to loop through the tickers, whereas it is also possible to introduce a set of arrays to loop the tickers.
 
 ## Results
 
@@ -23,9 +19,7 @@ It takes the original code 2.11 and 2.23 seconds to run the 2017 and 2018 by usi
 
 ## Summary
 
-1. What are the advantages or disadvantages of refactoring code? The refactored code is easier to understand, and It takes less space and time to run the code. However, it is very
-
-time consuming and impossible to know how long it takes to refine the code.
+1. What are the advantages or disadvantages of refactoring code? The refactored code is easier to understand, and It takes less space and time to run the code. However, it is very time consuming and impossible to know how long it takes to refine the code.
 
 2. How do these pros and cons apply to refactoring the original VBA script? It makes the code simpler to go over with fewer loops, and it runs the code around 10 times faster.
 However, finding a way to refactor the code wouldn't be easy to figure out without the challenge guidelines.
