@@ -16,7 +16,6 @@ The Results of the total daily volumes and return of all the 2018 stocks are sho
 
 It takes 0.328 and 0.335 seconds to run the 2017 and 2018 with the refactored coding style.[![2017.jpg](https://i.postimg.cc/kM2p7LQ9/2017.jpg)]
 
-(https://postimg.cc/RqzRRspb)
 
 [![2018.jpg](https://i.postimg.cc/MpLcJMqz/2018.jpg)](https://postimg.cc/yDF6FNDG)
 
